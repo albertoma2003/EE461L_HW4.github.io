@@ -1,0 +1,31 @@
+/* Use a CSS selector to apply style(s) to at least one HTML tag. */
+p {
+    color: black;
+    text-align: center; 
+}
+
+img {
+    /* Change at least two box model properties of any tag, class, or id. */
+    width: 400px;
+    border: 1px solid orangered;
+}
+
+/* Create at least one class, apply it to at least two elements, and style it. */
+.highlight {
+    font-weight: bold;
+    color: black;
+}
+
+.section{
+    text-align: center;
+}
+/* Create at least one id, apply it to an element, and style it. */
+#main-heading {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Use a CSS selector to change the color of <a> when you hover the cursor over it */
+#paris-link:hover {
+    color: orangered;
+}
